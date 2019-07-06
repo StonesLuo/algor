@@ -17,13 +17,14 @@ highlighter: rouge
 
 # The blog button should not be removed.
 blog_button:
-    title: CS Basic
-    description: Visit CS Basic blogs
+    title: Blogs
+    description: Visit blogs
 
 # Navigation buttons in the front page.
 nav:
-    - {title: ML&DL, description: Blogs on ML&DL, url: 'https://stonesluo.github.io/ml-dl/#blog'}
+    - {title: CS-Basic, description: Blogs on ML&DL, url: 'https://stonesluo.github.io/cs-basic/#blog'}
     - {title: Algorithm, description: Blogs on Algorithm, url: 'https://stonesluo.github.io/algor/#blog'}
+    - {title: ML&DL, description: Blogs on ML&DL, url: 'https://stonesluo.github.io/ml-dl/#blog'}
 
 # Pagination
 plugins: [jekyll-paginate]
