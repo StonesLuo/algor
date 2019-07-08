@@ -22,10 +22,10 @@ blog_button:
 
 # Navigation buttons in the front page.
 nav:
-    - {title: CS基础, description: Blogs on ML&DL, url: 'https://stonesluo.github.io/cs-basic/#blog'}
-    - {title: 算法题, description: Blogs on Algorithm, url: 'https://stonesluo.github.io/algor/#blog'}
-    - {title: 机器学习, description: Blogs on ML&DL, url: 'https://stonesluo.github.io/ml-dl/#blog'}
-    - {title: 阅读笔记, description: Blogs on Readings, url: 'https://stonesluo.github.io/readings/#blog'}
+    - {title: CS基础, description: Blogs on ML&DL, url: 'http://stonesluo.com/cs-basic/#blog'}
+    - {title: 算法题, description: Blogs on Algorithm, url: 'http://stonesluo.com/algor/#blog'}
+    - {title: 机器学习, description: Blogs on ML&DL, url: 'http://stonesluo.com/ml-dl/#blog'}
+    - {title: 阅读笔记, description: Blogs on Readings, url: 'http://stonesluo.com/readings/#blog'}
 
 
 # Pagination
