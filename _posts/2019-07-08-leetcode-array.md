@@ -80,7 +80,7 @@ class Solution(object):
 
 ## 1.2.1 C++ solution1: 运用hash函数
 
-```C++
+```c++
 vector<int> twoSum(vector<int> &numbers, int target)
 {
    //Key is the number and value is its index in the vector.
@@ -118,7 +118,7 @@ Do not allocate extra space for another array, you must do this by modifying the
 
 Example 1:
 
-```
+```c++
 Given nums = [1,1,2],
 
 Your function should return length = 2, with the first two elements of nums being 1 and 2 respectively.
@@ -142,7 +142,7 @@ Note that the input array is passed in by reference, which means modification to
 
 Internally you can think of this:
 
-```
+```c++
 // nums is passed in by reference. (i.e., without making a copy)
 int len = removeDuplicates(nums);
 
@@ -187,7 +187,7 @@ def removeDuplicates(self, nums):
 * 遍历数组，计算数组中，重复元素的个数count，最后用总个数减掉count;
 * 后面一个数，等于前面的数，则count + 1;
 
-```C++
+```c++
 int count = 0;
 for(int i = 1; i < n; i++){
    if(A[i] == A[i-1]) count++;
@@ -206,16 +206,17 @@ The order of elements can be changed. It doesn't matter what you leave beyond th
 
 Example 1:
 
-```
+```c++
 Given nums = [3,2,2,3], val = 3,
 
 Your function should return length = 2, with the first two elements of nums being 2.
 
 It doesn't matter what you leave beyond the returned length.
 ```
+
 Example 2:
 
-```
+```c++
 Given nums = [0,1,2,2,3,0,4,2], val = 2,
 
 Your function should return length = 5, with the first five elements of nums containing 0, 1, 3, 0, and 4.
@@ -232,7 +233,7 @@ Note that the input array is passed in by reference, which means modification to
 
 Internally you can think of this:
 
-```
+```c++
 // nums is passed in by reference. (i.e., without making a copy)
 int len = removeElement(nums, val);
 
