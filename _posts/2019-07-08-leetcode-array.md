@@ -1,6 +1,6 @@
 ---
 layout: post
-title: lc-array1-easy-1,26,27
+title: LC-array1-easy-1,26,27
 date: 2019-07-08 22:00:11.000000000 +09:00
 tags: algor, array, leetcode
 ---
