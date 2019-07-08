@@ -2,10 +2,10 @@
 title: StonesLuo
 subtitle: Laziness is the Sin
 welcome_message: <a href="https://github.com/StonesLuo/stonesluo.github.io" target="_blank">Blogs Repo</a>
-description: CV方向研究生,在读
+description: 算法题
 # creator: <a href="http://onev.cat">@onevcat</a>
 
-url: "https://stonesluo.github.io"
+url: "http://stonesluo.com"
 
 permalink: /:year/:month/:title/
 
