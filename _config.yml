@@ -1,8 +1,8 @@
 # Basic
 title: StonesLuo
 subtitle: Laziness is the Sin
-welcome_message: <a href="https://github.com/StonesLuo/stonesluo.github.io" target="_blank">Blog Repo</a>
-description: CV硕士研究生,在读
+welcome_message: <a href="https://github.com/StonesLuo/stonesluo.github.io" target="_blank">Blogs Repo</a>
+description: CV方向研究生,在读
 # creator: <a href="http://onev.cat">@onevcat</a>
 
 url: "https://stonesluo.github.io"
@@ -17,14 +17,16 @@ highlighter: rouge
 
 # The blog button should not be removed.
 blog_button:
-    title: Blogs
+    title: 所有博客
     description: Visit blogs
 
 # Navigation buttons in the front page.
 nav:
-    - {title: CS-Basic, description: Blogs on ML&DL, url: 'https://stonesluo.github.io/cs-basic/#blog'}
-    - {title: Algorithm, description: Blogs on Algorithm, url: 'https://stonesluo.github.io/algor/#blog'}
-    - {title: ML&DL, description: Blogs on ML&DL, url: 'https://stonesluo.github.io/ml-dl/#blog'}
+    - {title: CS基础, description: Blogs on ML&DL, url: 'https://stonesluo.github.io/cs-basic/#blog'}
+    - {title: 算法, description: Blogs on Algorithm, url: 'https://stonesluo.github.io/algor/#blog'}
+    - {title: 机器学习, description: Blogs on ML&DL, url: 'https://stonesluo.github.io/ml-dl/#blog'}
+    - {title: 阅读, description: Blogs on Readings, url: 'https://stonesluo.github.io/readings/#blog'}
+
 
 # Pagination
 plugins: [jekyll-paginate]
@@ -42,7 +44,7 @@ social:
     github: StonesLuo
     twitter: 302555998
     # facebook: lei.luo.547
-    # gplus: 107108267983477358170
+    gplus: 107108267983477358170
     mail: 302555998@qq.com
 
 # Google Analytics
